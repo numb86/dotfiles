@@ -1,0 +1,24 @@
+{
+  "javascript.validate.enable": false,
+  "javascript.format.enable": false,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Monokai",
+  "editor.tabSize": 2,
+  "window.openFilesInNewWindow": "on",
+  "telemetry.enableTelemetry": false,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    { "language": "vue", "autoFix": true },
+    { "language": "typescript", "autoFix": true },
+    { "language": "typescriptreact", "autoFix": true }
+  ],
+  "npm.enableScriptExplorer": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "window.closeWhenEmpty": true,
+  "breadcrumbs.enabled": true,
+  "eslint.autoFixOnSave": true,
+  "editor.detectIndentation": false,
+  "window.zoomLevel": 0,
+  "typescript.tsdk": "./node_modules/typescript/lib"
+}
