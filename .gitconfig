@@ -1,0 +1,9 @@
+[user]
+	name = numb86
+	email = numb86@users.noreply.github.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	excludesfile = /Users/numb/.gitignore_global
