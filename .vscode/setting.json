@@ -20,5 +20,9 @@
   "eslint.autoFixOnSave": true,
   "editor.detectIndentation": false,
   "window.zoomLevel": 0,
-  "typescript.tsdk": "./node_modules/typescript/lib"
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.renderControlCharacters": true,
+  "editor.copyWithSyntaxHighlighting": false,
+  "window.newWindowDimensions": "inherit"
 }
