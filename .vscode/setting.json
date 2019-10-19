@@ -24,5 +24,10 @@
   "workbench.iconTheme": "vscode-icons",
   "editor.renderControlCharacters": true,
   "editor.copyWithSyntaxHighlighting": false,
-  "window.newWindowDimensions": "inherit"
+  "window.newWindowDimensions": "inherit",
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": true,
+    "editor.snippetSuggestions": "top"
+  }
 }
