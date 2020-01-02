@@ -29,5 +29,9 @@
     "editor.wordWrap": "on",
     "editor.quickSuggestions": true,
     "editor.snippetSuggestions": "top"
+  },
+  "extensions.ignoreRecommendations": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
   }
 }
