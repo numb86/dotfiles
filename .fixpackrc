@@ -1,0 +1,22 @@
+{
+  "sortToTop": [
+    "name",
+    "author",
+    "description",
+    "keywords",
+    "license",
+    "engines",
+    "scripts",
+    "dependencies",
+    "devDependencies"
+  ],
+  "required": [
+    "name",
+    "author"
+  ],
+  "sortedSubItems": [
+    "keywords",
+    "dependencies",
+    "devDependencies"
+  ]
+}
